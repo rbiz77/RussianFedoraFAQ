@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #
-# SPDX-FileCopyrightText: 2018-2023 EasyCoding Team and contributors
+# SPDX-FileCopyrightText: 2018-2025 EasyCoding Team and contributors
 #
 # SPDX-License-Identifier: CC-BY-SA-4.0
 #
@@ -14,7 +14,7 @@ from os import getenv
 from time import strftime
 
 # Configuring static version for the packaged builds.
-rel_version = '2023.05.30'
+rel_version = '2025.09.30'
 
 # -- General configuration ------------------------------------------------
 

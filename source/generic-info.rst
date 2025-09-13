@@ -79,7 +79,7 @@ FESCo -- `Fedora Engineering Steering Committee <https://docs.fedoraproject.org/
 Когда выходит следующий релиз?
 ===================================
 
-`Fedora 37 Schedule <https://fedorapeople.org/groups/schedule/f-37/f-37-key-tasks.html>`__.
+`Fedora 44 Schedule <https://fedorapeople.org/groups/schedule/f-44/f-44-key-tasks.html>`__.
 
 .. index:: difference, fedora, bleeding edge, distribution
 .. _differences:
@@ -97,8 +97,9 @@ Fedora -- это `bleeding edge <https://en.wikipedia.org/wiki/Bleeding_edge_tec
 
 Загрузить ISO образ дистрибутива можно с официального сайта:
 
-  * `Fedora Workstation (с GNOME) <https://getfedora.org/ru/workstation/download/>`__;
-  * `Fedora с другими DE <https://spins.fedoraproject.org/ru/>`__;
+  * `Fedora Workstation (с GNOME) <https://fedoraproject.org/ru/workstation/download>`__;
+  * `Fedora KDE Plasma Desktop Edition <https://fedoraproject.org/ru/kde/download>`__;
+  * `Fedora с другими DE <https://fedoraproject.org/ru/spins/>`__;
   * `официальные торренты <https://torrents.fedoraproject.org/>`__.
 
 Также существуют еженедельные `автоматические сборки <https://dl.fedoraproject.org/pub/alt/live-respins/>`__ («respins»), содержащие все выпущенные на данный момент обновления.
@@ -111,15 +112,20 @@ Fedora -- это `bleeding edge <https://en.wikipedia.org/wiki/Bleeding_edge_tec
 
 Текущий выпуск Fedora поддерживает следующие DE:
 
-  * `GNOME <https://getfedora.org/ru/workstation/download/>`__;
-  * `KDE Plasma <https://spins.fedoraproject.org/ru/kde/download/>`__;
-  * `XFCE <https://spins.fedoraproject.org/ru/xfce/download/>`__;
-  * `LXQt <https://spins.fedoraproject.org/ru/lxqt/download/>`__;
-  * `Mate <https://spins.fedoraproject.org/ru/mate-compiz/download/>`__;
-  * `Cinnamon <https://spins.fedoraproject.org/ru/cinnamon/download/>`__;
-  * `LXDE <https://spins.fedoraproject.org/ru/lxde/download/>`__;
-  * `SOAS <https://spins.fedoraproject.org/ru/soas/download/>`__;
-  * `i3 <https://spins.fedoraproject.org/ru/i3/download/>`__.
+  * `GNOME <https://fedoraproject.org/ru/workstation/download/>`__;
+  * `KDE Plasma <https://fedoraproject.org/ru/kde/download/>`__;
+  * `XFCE <https://fedoraproject.org/ru/spins/xfce/download/>`__;
+  * `Cinnamon <https://fedoraproject.org/ru/spins/cinnamon/download/>`__;
+  * `MATE+Compiz <https://fedoraproject.org/ru/spins/mate/download/>`__;
+  * `i3 <https://fedoraproject.org/ru/spins/i3/download/>`__;
+  * `LXQt <https://fedoraproject.org/ru/spins/lxqt/download/>`__;
+  * `LXDE <https://fedoraproject.org/ru/spins/lxde/download/>`__;
+  * `SOAS <https://fedoraproject.org/ru/spins/soas/download/>`__;
+  * `Sway <https://fedoraproject.org/ru/spins/sway/download/>`__;
+  * `Budgie <https://fedoraproject.org/ru/spins/budgie/download/>`__;
+  * `Miracle <https://fedoraproject.org/ru/spins/miraclewm/download/>`__;
+  * `KDE Plasma Mobile <https://fedoraproject.org/ru/spins/kde-mobile/download/>`__;
+  * `COSMIC <https://fedoraproject.org/ru/spins/cosmic/download/>`__.
 
 .. index:: releases, rolling, fedora, rawhide
 .. _rolling-model:
@@ -231,7 +237,7 @@ RFRemix -- это ремикс оргинального дистрибутива
 
   * `Russian Fedora <https://t.me/russianfedora>`__ -- основной чат на русском языке;
   * `Fedora <https://t.me/fedora>`__ -- основной чат на английском языке;
-  * `Russian Fedora Offtopic <https://t.me/russianfedora_offtopic>`__ -- специальный чат для оффтопика.
+  * `Fedora talks (RU) <https://t.me/fedora_talks_ru>`__ -- специальный чат для оффтопика.
 
 Чаты в Matrix:
 
